@@ -247,7 +247,7 @@ cd ecommerce
 ## Listar Productos
 ![image](https://github.com/earaucov27/PreEntrega2EdisonArauco/assets/78817982/2ed3d409-aa40-47c6-a6d3-a104132d7f98)
 
-## Listar Producto
+## Listar Producto por ID
 ![image](https://github.com/earaucov27/PreEntrega2EdisonArauco/assets/78817982/beb0d5f7-7e9a-470e-b35e-bf72ace3fd2f)
 
 ## Modificar Producto
